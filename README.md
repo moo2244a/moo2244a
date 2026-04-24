@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>💙 Flutter & Mobile Developer | مهتم ببناء تطبيقات تعليمية تفاعلية</b>
+  <b>💙 Flutter & Mobile Developer </b>
 </p>
 
 ---
