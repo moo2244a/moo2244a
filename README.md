@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>💙 Flutter & Mobile Developer </b>
+  <b>💙 Flutter Developer </b>
 </p>
 
 ---
